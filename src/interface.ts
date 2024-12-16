@@ -3,7 +3,7 @@
 export interface NetworkMain {
     node1 : string;
     node2 : string;
-    node3 : number;
+    node3 : string;
 }
 
 
